@@ -1,0 +1,172 @@
+{
+    "app": {
+        "title": "D2R Nexus",
+        "subtitle": "La base de datos definitiva de Diablo II: Resurrected"
+    },
+    "nav": {
+        "search": "Buscar en la base de datos...",
+        "login": "Iniciar Sesión",
+        "signup": "Registrarse",
+        "profile": "Mi Perfil",
+        "settings": "Configuración",
+        "logout": "Cerrar Sesión",
+        "online": "En línea",
+        "account": "Cuenta"
+    },
+    "home": {
+        "welcome": "Bienvenido, Nephalem"
+    },
+    "database": {
+        "title": "Archivos de Santuario",
+        "greatLibrary": "La Gran Biblioteca",
+        "description": "La base de datos definitiva de Diablo 2 Resurrected. Objetos, Monstruos, Palabras Rúnicas y Mecánicas.",
+        "quote": "\"Quédate un rato y escucha... Los Horadrim han curado cada pergamino, artefacto y leyenda dentro de estos salones.\"",
+        "noRecords": "No se encontraron registros",
+        "adjustSearch": "Intenta ajustar tus términos de búsqueda.",
+        "sections": {
+            "items": "Base de Datos de Objetos e Info",
+            "weapons": "Armas",
+            "armor": "Armadura y Equipo",
+            "jewelry": "Joyería y Varios",
+            "intel": "Información del Juego"
+        },
+        "categories": {
+            "valuable": {
+                "title": "El Tesoro",
+                "description": "Qué guardar: Mágicos, Raros y Bases"
+            },
+            "uniques": {
+                "title": "Objetos Únicos",
+                "description": "Objetos legendarios con estadísticas fijas"
+            },
+            "sets": {
+                "title": "Objetos de Set",
+                "description": "Conjuntos completos con poderosas bonificaciones"
+            },
+            "runewords": {
+                "title": "Palabras Rúnicas",
+                "description": "Poderosas combinaciones de runas"
+            },
+            "bases": {
+                "title": "Objetos Base",
+                "description": "Bases Normales, Excepcionales y de Élite"
+            },
+            "axes": {
+                "title": "Hachas",
+                "description": "Hachas de una y dos manos"
+            },
+            "bows": {
+                "title": "Arcos y Ballestas",
+                "description": "Armamento a distancia"
+            },
+            "daggers": {
+                "title": "Dagas",
+                "description": "Cuchillas cortas y dagas"
+            },
+            "maces": {
+                "title": "Mazas y Cetros",
+                "description": "Armas de fuerza contundente"
+            },
+            "polearms": {
+                "title": "Armas de Asta y Lanzas",
+                "description": "Armas de largo alcance"
+            },
+            "swords": {
+                "title": "Espadas",
+                "description": "Hojas de una y dos manos"
+            },
+            "wands": {
+                "title": "Varitas y Orbes",
+                "description": "Armas de lanzador"
+            },
+            "throwing": {
+                "title": "Arrojadizas",
+                "description": "Jabalinas y hachas arrojadizas"
+            },
+            "helms": {
+                "title": "Cascos",
+                "description": "Cascos y aros"
+            },
+            "armor": {
+                "title": "Armaduras",
+                "description": "Placas de pecho y túnicas"
+            },
+            "shields": {
+                "title": "Escudos",
+                "description": "Barreras defensivas"
+            },
+            "gloves": {
+                "title": "Guantes",
+                "description": "Protección de manos"
+            },
+            "belts": {
+                "title": "Cinturones",
+                "description": "Equipo de cintura y fajas"
+            },
+            "boots": {
+                "title": "Botas",
+                "description": "Calzado"
+            },
+            "amulets": {
+                "title": "Amuletos",
+                "description": "Collares mágicos"
+            },
+            "rings": {
+                "title": "Anillos",
+                "description": "Bandas mágicas"
+            },
+            "charms": {
+                "title": "Hechizos",
+                "description": "Skillers, Antorchas y Sunders"
+            },
+            "jewels": {
+                "title": "Joyas y Gemas",
+                "description": "Mejoras engarzables y Facetas"
+            },
+            "runes": {
+                "title": "Runas",
+                "description": "Lista de runas y efectos"
+            },
+            "skills": {
+                "title": "Habilidades",
+                "description": "Árboles de habilidades y estadísticas"
+            },
+            "cube": {
+                "title": "Recetas del Cubo",
+                "description": "Recetas de transmutación"
+            },
+            "crafting": {
+                "title": "Artesanía",
+                "description": "Caster, Sangre, Hit Power"
+            },
+            "monsters": {
+                "title": "Bestiario",
+                "description": "Monstruos y Jefes"
+            },
+            "areas": {
+                "title": "Áreas y Zonas",
+                "description": "Rangos de nivel e inmunidades"
+            },
+            "npcs": {
+                "title": "PNJs",
+                "description": "Vendedores, Mercenarios y Diálogos"
+            },
+            "affixes": {
+                "title": "Visor de Afijos",
+                "description": "Modificadores Mágicos y Raros"
+            },
+            "bosses": {
+                "title": "Guías de Jefes",
+                "description": "Estrategias de Jefes de Acto"
+            },
+            "terrorZones": {
+                "title": "Zonas de Terror",
+                "description": "Horarios e información de TZ"
+            },
+            "mechanics": {
+                "title": "Mecánicas",
+                "description": "Breakpoints, FCR, FHR"
+            }
+        }
+    }
+}

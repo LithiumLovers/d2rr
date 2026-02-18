@@ -1,0 +1,172 @@
+{
+    "app": {
+        "title": "D2R Nexus",
+        "subtitle": "The Ultimate Diablo II: Resurrected Database"
+    },
+    "nav": {
+        "search": "Search Database...",
+        "login": "Log In",
+        "signup": "Sign Up",
+        "profile": "My Profile",
+        "settings": "Settings",
+        "logout": "Sign Out",
+        "online": "Online",
+        "account": "Account"
+    },
+    "home": {
+        "welcome": "Welcome, Nephalem"
+    },
+    "database": {
+        "title": "Sanctuary Archives",
+        "greatLibrary": "The Great Library",
+        "description": "The ultimate Diablo 2 Resurrected database. Items, Monsters, Runewords, and Mechanics.",
+        "quote": "\"Stay awhile and listen... The Horadrim have curated every scroll, artifact, and legend within these halls.\"",
+        "noRecords": "No records found",
+        "adjustSearch": "Try adjusting your search terms.",
+        "sections": {
+            "items": "Item Database & Intel",
+            "weapons": "Weapons",
+            "armor": "Armor & Gear",
+            "jewelry": "Jewelry & Misc",
+            "intel": "Game Intel"
+        },
+        "categories": {
+            "valuable": {
+                "title": "The Hoard",
+                "description": "What to keep: Magic, Rare & Bases"
+            },
+            "uniques": {
+                "title": "Unique Items",
+                "description": "Legendary items with fixed stats"
+            },
+            "sets": {
+                "title": "Set Items",
+                "description": "Complete sets with powerful bonuses"
+            },
+            "runewords": {
+                "title": "Runewords",
+                "description": "Powerful rune combinations"
+            },
+            "bases": {
+                "title": "Base Items",
+                "description": "Normal, Exceptional & Elite bases"
+            },
+            "axes": {
+                "title": "Axes",
+                "description": "One and two-handed axes"
+            },
+            "bows": {
+                "title": "Bows & Crossbows",
+                "description": "Ranged weaponry"
+            },
+            "daggers": {
+                "title": "Daggers",
+                "description": "Short blades and dirks"
+            },
+            "maces": {
+                "title": "Maces & Scepters",
+                "description": "Blunt force weapons"
+            },
+            "polearms": {
+                "title": "Polearms & Spears",
+                "description": "Long-reach weapons"
+            },
+            "swords": {
+                "title": "Swords",
+                "description": "One and two-handed blades"
+            },
+            "wands": {
+                "title": "Wands & Orbs",
+                "description": "Caster weapons"
+            },
+            "throwing": {
+                "title": "Throwing",
+                "description": "Javelins and throwing axes"
+            },
+            "helms": {
+                "title": "Helmets",
+                "description": "Headgear and circlets"
+            },
+            "armor": {
+                "title": "Body Armor",
+                "description": "Chest plates and robes"
+            },
+            "shields": {
+                "title": "Shields",
+                "description": "Defensive barriers"
+            },
+            "gloves": {
+                "title": "Gloves",
+                "description": "Hand protection"
+            },
+            "belts": {
+                "title": "Belts",
+                "description": "Waist gear and sashes"
+            },
+            "boots": {
+                "title": "Boots",
+                "description": "Footwear"
+            },
+            "amulets": {
+                "title": "Amulets",
+                "description": "Magical necklaces"
+            },
+            "rings": {
+                "title": "Rings",
+                "description": "Magical bands"
+            },
+            "charms": {
+                "title": "Charms",
+                "description": "Skillers, Torches & Sunders"
+            },
+            "jewels": {
+                "title": "Jewels & Gems",
+                "description": "Socketable upgrades & Facets"
+            },
+            "runes": {
+                "title": "Runes",
+                "description": "Rune list and effects"
+            },
+            "skills": {
+                "title": "Skills",
+                "description": "Class skill trees & stats"
+            },
+            "cube": {
+                "title": "Cube Recipes",
+                "description": "Transmutation recipes"
+            },
+            "crafting": {
+                "title": "Crafting",
+                "description": "Caster, Blood, Hit Power"
+            },
+            "monsters": {
+                "title": "Bestiary",
+                "description": "Monsters and Bosses"
+            },
+            "areas": {
+                "title": "Areas & Zones",
+                "description": "Level ranges and immunities"
+            },
+            "npcs": {
+                "title": "NPCs",
+                "description": "Vendors, Mercenaries & Dialogues"
+            },
+            "affixes": {
+                "title": "Affix Viewer",
+                "description": "Magic & Rare modifiers"
+            },
+            "bosses": {
+                "title": "Boss Guides",
+                "description": "Act Boss strategies"
+            },
+            "terrorZones": {
+                "title": "Terror Zones",
+                "description": "TZ Schedules and info"
+            },
+            "mechanics": {
+                "title": "Mechanics",
+                "description": "Breakpoints, FCR, FHR"
+            }
+        }
+    }
+}
