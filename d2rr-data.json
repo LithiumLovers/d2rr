@@ -17782,7 +17782,7 @@
         "Tanky",
         "Scales to infinity"
       ],
-      "description": "The former king, still royalty. [skill:Blessed Hammer] deals Magic damage, ignoring almost all immunities. He is technically stronger than S-Tier builds at high gear, but struggles with mobility until [runeword:Enigma].",
+      "description": "The former king, still royalty. Blessed Hammer deals Magic damage, ignoring almost all immunities. He is technically stronger than S-Tier builds at high gear, but struggles with mobility until Enigma.",
       "author": "Horadric Archivist",
       "updated": "2.7",
       "upvotes": 0,
@@ -17791,11 +17791,11 @@
         "sections": [
           {
             "title": "Gameplay",
-            "content": "Cast [skill:Holy Shield]. Teleport with [runeword:Enigma] directly ON TOP of your enemy (or slightly below them). Spam [skill:Blessed Hammer]. Everything dies. Use [skill:Redemption] aura to recover Mana/Life between packs."
+            "content": "Cast Holy Shield. Teleport with Enigma directly ON TOP of your enemy (or slightly below them). Spam Blessed Hammer. Everything dies. Use Redemption aura to recover Mana/Life between packs."
           },
           {
             "title": "The Maggot Lair Problem",
-            "content": "Hammers spiral out from your character. In tight corridors like Maggot Lair, they hit walls immediately. Use [skill:Teleport] to skip these areas, or rely on your Mercenary."
+            "content": "Hammers spiral out from your character. In tight corridors like Maggot Lair, they hit walls immediately. Use Teleport to skip these areas, or rely on your Mercenary."
           }
         ],
         "tags": [
@@ -18087,7 +18087,7 @@
         "Best AoE in the game",
         "Cow Level Specialist"
       ],
-      "description": "The Cow Level Queen. [skill:Lightning Fury] scales with enemy density, making her the fastest clearer of screen-wide packs. Struggles against bosses without distinct gear like [runeword:Infinity].",
+      "description": "The Cow Level Queen. Lightning Fury scales with enemy density, making her the fastest clearer of screen-wide packs. Struggles against bosses without distinct gear like Infinity.",
       "author": "Horadric Archivist",
       "updated": "2.7",
       "upvotes": 0,
@@ -18096,11 +18096,11 @@
         "sections": [
           {
             "title": "Skill Build",
-            "content": "1. **[skill:Lightning Fury]**: Max this. Your main clear skill.\\n2. **[skill:Charged Strike]**: Max this. Your boss killer.\\n3. **[skill:Lightning Bolt]**: Synergy.\\n4. **[skill:Power Strike]**: Synergy.\\n5. **[skill:Pierce]**: Get enough points for 100% Pierce with [item:Razortail]."
+            "content": "1. **Lightning Fury**: Max this. Your main clear skill.\\n2. **Charged Strike**: Max this. Your boss killer.\\n3. **Lightning Bolt**: Synergy.\\n4. **Power Strike**: Synergy.\\n5. **Pierce**: Get enough points for 100% Pierce with Razortail."
           },
           {
             "title": "Gear Priorities",
-            "content": "**Weapon**: [item:Titan's Revenge] (Ethereal is style points). Upgrade for physical damage.\\n**Shield**: [runeword:Spirit] Monarch or [item:Stormshield] for Hardcore.\\n**Helm**: [item:Griffon's Eye] is Best in Slot (-Enemy Light Res).\\n**Belt**: [item:Razortail] is MANDATORY for 100% Pierce."
+            "content": "**Weapon**: Titan's Revenge (Ethereal is style points). Upgrade for physical damage.\\n**Shield**: Spirit Monarch or Stormshield for Hardcore.\\n**Helm**: Griffon's Eye is Best in Slot (-Enemy Light Res).\\n**Belt**: Razortail is MANDATORY for 100% Pierce."
           }
         ],
         "tags": [
@@ -18309,7 +18309,7 @@
         "Safe",
         "Cows"
       ],
-      "description": "Set traps and watch the world burn. [skill:Lightning Sentry] does the heavy lifting, while [skill:Death Sentry] explodes corpses for massive AoE.",
+      "description": "Set traps and watch the world burn. Lightning Sentry does the heavy lifting, while Death Sentry explodes corpses for massive AoE.",
       "author": "Horadric Archivist",
       "updated": "2.7",
       "upvotes": 0,
@@ -18322,7 +18322,7 @@
           },
           {
             "title": "Build Strategy",
-            "content": "Lay 4 [skill:Lightning Sentry] and 1 [skill:Death Sentry]. Use [skill:Burst of Speed] for mobility or [skill:Fade] for safety. Break immunities with a Sunder Charm or [runeword:Infinity] on your mercenary."
+            "content": "Lay 4 Lightning Sentry and 1 Death Sentry. Use Burst of Speed for mobility or Fade for safety. Break immunities with a Sunder Charm or Infinity on your mercenary."
           }
         ],
         "tags": [
@@ -18344,7 +18344,7 @@
         "Ubers",
         "Melee"
       ],
-      "description": "The Assassin's answer to Ubers. [skill:Dragon Talon] delivers Crushing Blows at insane speeds. Very tanky with [skill:Fade].",
+      "description": "The Assassin's answer to Ubers. Dragon Talon delivers Crushing Blows at insane speeds. Very tanky with Fade.",
       "author": "Horadric Archivist",
       "updated": "2.7",
       "upvotes": 0,
@@ -18553,7 +18553,7 @@
         "Summons",
         "Physical/Cold"
       ],
-      "description": "A physical damage caster. [skill:Tornado] deals Physical damage, while [skill:Hurricane] deals Cold. Protected by [skill:Cyclone Armor] and a Bear.",
+      "description": "A physical damage caster. Tornado deals Physical damage, while Hurricane deals Cold. Protected by Cyclone Armor and a Bear.",
       "author": "Horadric Archivist",
       "updated": "2.7",
       "upvotes": 0,
@@ -18562,7 +18562,7 @@
         "sections": [
           {
             "title": "Why Wind?",
-            "content": "Unlike Fire Druids, the Wind Druid deals Physical damage with Tornado, which has very few immunes in Hell. [skill:Cyclone Armor] absorbs hundreds of elemental damage, making him incredibly safe."
+            "content": "Unlike Fire Druids, the Wind Druid deals Physical damage with Tornado, which has very few immunes in Hell. Cyclone Armor absorbs hundreds of elemental damage, making him incredibly safe."
           },
           {
             "title": "Aiming Tornadoes",
@@ -18685,11 +18685,11 @@
         "sections": [
           {
             "title": "Playstyle",
-            "content": "Summon your Army using [skill:Raise Skeleton]. Teleport onto an enemy with [runeword:Enigma] (game changer). Once the first monster dies, cast [skill:Amplify Damage] and chain [skill:Corpse Explosion] to wipe the screen."
+            "content": "Summon your Army using Raise Skeleton. Teleport onto an enemy with Enigma (game changer). Once the first monster dies, cast Amplify Damage and chain Corpse Explosion to wipe the screen."
           },
           {
             "title": "Bossing",
-            "content": "The key to bosses is [skill:Decrepify] + [skill:Clay Golem]. This slows the boss to a crawl, making them harmless."
+            "content": "The key to bosses is Decrepify + Clay Golem. This slows the boss to a crawl, making them harmless."
           }
         ],
         "tags": [
@@ -18807,19 +18807,19 @@
         "sections": [
           {
             "title": "Introduction",
-            "content": "The [build:blizz-sorc] is capable of destroying Hell Mephisto, Pindleskin, and the Ancient Tunnels with virtually zero gear investment. Her native [skill:Teleport] solves the early game mobility issue, while [skill:Blizzard] allows her to kite enemies safely. While she struggles with Cold Immunes, her farming efficiency in non-immune zones is unmatched."
+            "content": "The blizz-sorc is capable of destroying Hell Mephisto, Pindleskin, and the Ancient Tunnels with virtually zero gear investment. Her native Teleport solves the early game mobility issue, while Blizzard allows her to kite enemies safely. While she struggles with Cold Immunes, her farming efficiency in non-immune zones is unmatched."
           },
           {
             "title": "Skill Build",
-            "content": "Maximize your skills in the following order:\\n\\n1. **[skill:Blizzard]**: Your main damage source. Cast it ahead of moving enemies.\\n2. **[skill:Glacial Spike]**: Your left-click crowd control. Freezes enemies in place.\\n3. **[skill:Cold Mastery]**: Aim for -100% to -150% enemy resistance after +Skills.\\n4. **[skill:Ice Blast]**: Single target damage for bosses.\\n5. **[skill:Ice Bolt]**: Synergy for Blizzard.\\n\\nDo not forget 1 point wonders: [skill:Static Field], [skill:Telekinesis], [skill:Teleport], and [skill:Warmth]."
+            "content": "Maximize your skills in the following order:\\n\\n1. **Blizzard**: Your main damage source. Cast it ahead of moving enemies.\\n2. **Glacial Spike**: Your left-click crowd control. Freezes enemies in place.\\n3. **Cold Mastery**: Aim for -100% to -150% enemy resistance after +Skills.\\n4. **Ice Blast**: Single target damage for bosses.\\n5. **Ice Bolt**: Synergy for Blizzard.\\n\\nDo not forget 1 point wonders: Static Field, Telekinesis, Teleport, and Warmth."
           },
           {
             "title": "Playstyle",
-            "content": "The core gameplay loop is \"Cast and Move\". Drop a [skill:Blizzard] on a pack of monsters, then immediately [skill:Teleport] or run to a safe position. For bosses like Mephisto, use the \"Moat Trick\" or simply kite him while dropping Blizzards. Use [skill:Glacial Spike] to freeze dangerous packs (like dolls) in place.\\n\\n**Dealing with Immunes**: Your Mercenary is your primary solution. Use [skill:Telekinesis] to stun lock the Immune monster against a wall while your Mercenary pokes it to death."
+            "content": "The core gameplay loop is \"Cast and Move\". Drop a Blizzard on a pack of monsters, then immediately Teleport or run to a safe position. For bosses like Mephisto, use the \"Moat Trick\" or simply kite him while dropping Blizzards. Use Glacial Spike to freeze dangerous packs (like dolls) in place.\\n\\n**Dealing with Immunes**: Your Mercenary is your primary solution. Use Telekinesis to stun lock the Immune monster against a wall while your Mercenary pokes it to death."
           },
           {
             "title": "Gear Priorities",
-            "content": "Early ladder, prioritize **Faster Cast Rate (FCR)** and **Rank 5 (63% FCR)** or **Rank 8 (105% FCR)**. [runeword:Spirit] Sword and Shield are best-in-slot early options. For chest, [runeword:Stealth] carries you to Hell, eventually replaced by [runeword:Smoke] or [item:Skin of the Vipermagi]."
+            "content": "Early ladder, prioritize **Faster Cast Rate (FCR)** and **Rank 5 (63% FCR)** or **Rank 8 (105% FCR)**. Spirit Sword and Shield are best-in-slot early options. For chest, Stealth carries you to Hell, eventually replaced by Smoke or Skin of the Vipermagi."
           }
         ],
         "tags": [
@@ -18846,7 +18846,7 @@
         "Safe distance caster",
         "Chaos Sanctuary King"
       ],
-      "description": "The Chaos Sanctuary specialist. [skill:Fist of the Heavens] ignores the resistance of Demons and Undead, making him the supreme cleaner of Act 4 and 5. Requires very little gear to function.",
+      "description": "The Chaos Sanctuary specialist. Fist of the Heavens ignores the resistance of Demons and Undead, making him the supreme cleaner of Act 4 and 5. Requires very little gear to function.",
       "author": "Horadric Archivist",
       "updated": "2.7",
       "upvotes": 0,
@@ -18878,11 +18878,11 @@
         "sections": [
           {
             "title": "Core Mechanics",
-            "content": "The entire build revolves around the **Mosaic** runeword (`Mal + Gul + Amn`) in a Claw. You need **TWO** of them. This gives you a 100% chance to not consume charges. Build up 3 charges of [skill:Phoenix Strike], [skill:Claws of Thunder], and [skill:Blades of Ice], then unleash them with every kick of [skill:Dragon Talon]."
+            "content": "The entire build revolves around the **Mosaic** runeword (`Mal + Gul + Amn`) in a Claw. You need **TWO** of them. This gives you a 100% chance to not consume charges. Build up 3 charges of Phoenix Strike, Claws of Thunder, and Blades of Ice, then unleash them with every kick of Dragon Talon."
           },
           {
             "title": "Gear",
-            "content": "**Weapons**: 2x [runeword:Mosaic] in Greater Talons (+3 Phoenix Strike base is ideal).\\n**Helm**: [item:Griffon's Eye] or [item:Harlequin Crest].\\n**Armor**: [runeword:Enigma] for positioning (essential).\\n**Gloves**: +2 Martial Arts / 20 IAS Rares.\\n**Boots**: [item:Gore Rider] or [item:Shadow Dancer]."
+            "content": "**Weapons**: 2x Mosaic in Greater Talons (+3 Phoenix Strike base is ideal).\\n**Helm**: Griffon's Eye or Harlequin Crest.\\n**Armor**: Enigma for positioning (essential).\\n**Gloves**: +2 Martial Arts / 20 IAS Rares.\\n**Boots**: Gore Rider or Shadow Dancer."
           }
         ],
         "tags": [
@@ -18905,7 +18905,7 @@
       "tier": "A",
       "type": "Specialist",
       "tags": [],
-      "description": "[skill:Smite] ignores target defense and block, guaranteeing a hit every time. Combined with Crushing Blow and Life Tap, the Smiter is invincible against Ubers.",
+      "description": "Smite ignores target defense and block, guaranteeing a hit every time. Combined with Crushing Blow and Life Tap, the Smiter is invincible against Ubers.",
       "author": "Horadric Archivist",
       "updated": "2.7",
       "upvotes": 0,
@@ -18914,11 +18914,11 @@
         "sections": [
           {
             "title": "The Smite Mechanic",
-            "content": "Smite hits with your shield. It ignores Defense and Block chance (always hits). The damage comes from the shield base and +Damage on gear (like [runeword:Grief]). It does NOT work with Life Leech, so you MUST use [skill:Life Tap] to survive."
+            "content": "Smite hits with your shield. It ignores Defense and Block chance (always hits). The damage comes from the shield base and +Damage on gear (like Grief). It does NOT work with Life Leech, so you MUST use Life Tap to survive."
           },
           {
             "title": "Mandatory Gear",
-            "content": "1. **Source of Life Tap**: [item:Dracul's Grasp] gloves or a Wand with Life Tap charges.\\n2. **Crushing Blow**: [item:Guillaume's Face] (Helm) and [item:Gore Rider] (Boots).\\n3. **Resistances**: Stack Lightning Resist (300%+) to counter Mephisto's Conviction Aura."
+            "content": "1. **Source of Life Tap**: Dracul's Grasp gloves or a Wand with Life Tap charges.\\n2. **Crushing Blow**: Guillaume's Face (Helm) and Gore Rider (Boots).\\n3. **Resistances**: Stack Lightning Resist (300%+) to counter Mephisto's Conviction Aura."
           }
         ],
         "tags": [
@@ -18937,7 +18937,7 @@
       "tier": "A",
       "type": "Boss Killer",
       "tags": [],
-      "description": "A whirlwind of steel. [skill:Frenzy] provides massive movement and attack speed. Can stack Crushing Blow effectively.",
+      "description": "A whirlwind of steel. Frenzy provides massive movement and attack speed. Can stack Crushing Blow effectively.",
       "author": "Horadric Archivist",
       "updated": "2.7",
       "upvotes": 0,
@@ -18963,7 +18963,7 @@
         "Low Budget",
         "Mephisto/Andariel Specialist"
       ],
-      "description": "The archetype of efficiency. Mastery over [skill:Blizzard] allows her to dismantle Mephisto and the Ancient Tunnels with barely any equipment. Her native [skill:Teleport] is the key to her dominance.",
+      "description": "The archetype of efficiency. Mastery over Blizzard allows her to dismantle Mephisto and the Ancient Tunnels with barely any equipment. Her native Teleport is the key to her dominance.",
       "author": "Horadric Archivist",
       "updated": "2.7",
       "upvotes": 0,
@@ -18985,7 +18985,7 @@
         "Safe playstyle",
         "Dclone capable (early)"
       ],
-      "description": "With the changes to casting delays, [skill:Hydra] has risen from the ashes. A safe, auto-piloted playstyle that excels at farming Andariel and Stony Tomb. Can be played comfortably on a controller.",
+      "description": "With the changes to casting delays, Hydra has risen from the ashes. A safe, auto-piloted playstyle that excels at farming Andariel and Stony Tomb. Can be played comfortably on a controller.",
       "author": "Horadric Archivist",
       "updated": "2.7",
       "upvotes": 0,
@@ -19006,7 +19006,7 @@
         "High Burst Damage",
         "Great cow farmer"
       ],
-      "description": "Raw, explosive power. [skill:Meteor] provides the highest single-tick damage for bossing, while [skill:Fire Ball] melts density. A classic starter for farming key keys.",
+      "description": "Raw, explosive power. Meteor provides the highest single-tick damage for bossing, while Fire Ball melts density. A classic starter for farming key keys.",
       "author": "Horadric Archivist",
       "updated": "2.7",
       "upvotes": 0,
@@ -19028,7 +19028,7 @@
         "Fun playstyle",
         "Controller friendly"
       ],
-      "description": "The smoother, faster cousin of Blizzard. [skill:Frozen Orb] offers better area coverage and feels more fluid, but lacks the raw damage ceiling for higher player counts.",
+      "description": "The smoother, faster cousin of Blizzard. Frozen Orb offers better area coverage and feels more fluid, but lacks the raw damage ceiling for higher player counts.",
       "author": "Horadric Archivist",
       "updated": "2.7",
       "upvotes": 0,
@@ -20594,19 +20594,19 @@
       "content": [
         {
           "title": "Introduction",
-          "content": "The [build:blizz-sorc] is capable of destroying Hell Mephisto, Pindleskin, and the Ancient Tunnels with virtually zero gear investment. Her native [skill:Teleport] solves the early game mobility issue, while [skill:Blizzard] allows her to kite enemies safely. While she struggles with Cold Immunes, her farming efficiency in non-immune zones is unmatched."
+          "content": "The blizz-sorc is capable of destroying Hell Mephisto, Pindleskin, and the Ancient Tunnels with virtually zero gear investment. Her native Teleport solves the early game mobility issue, while Blizzard allows her to kite enemies safely. While she struggles with Cold Immunes, her farming efficiency in non-immune zones is unmatched."
         },
         {
           "title": "Skill Build",
-          "content": "Maximize your skills in the following order:\\n\\n1. **[skill:Blizzard]**: Your main damage source. Cast it ahead of moving enemies.\\n2. **[skill:Glacial Spike]**: Your left-click crowd control. Freezes enemies in place.\\n3. **[skill:Cold Mastery]**: Aim for -100% to -150% enemy resistance after +Skills.\\n4. **[skill:Ice Blast]**: Single target damage for bosses.\\n5. **[skill:Ice Bolt]**: Synergy for Blizzard.\\n\\nDo not forget 1 point wonders: [skill:Static Field], [skill:Telekinesis], [skill:Teleport], and [skill:Warmth]."
+          "content": "Maximize your skills in the following order:\\n\\n1. **Blizzard**: Your main damage source. Cast it ahead of moving enemies.\\n2. **Glacial Spike**: Your left-click crowd control. Freezes enemies in place.\\n3. **Cold Mastery**: Aim for -100% to -150% enemy resistance after +Skills.\\n4. **Ice Blast**: Single target damage for bosses.\\n5. **Ice Bolt**: Synergy for Blizzard.\\n\\nDo not forget 1 point wonders: Static Field, Telekinesis, Teleport, and Warmth."
         },
         {
           "title": "Playstyle",
-          "content": "The core gameplay loop is \"Cast and Move\". Drop a [skill:Blizzard] on a pack of monsters, then immediately [skill:Teleport] or run to a safe position. For bosses like Mephisto, use the \"Moat Trick\" or simply kite him while dropping Blizzards. Use [skill:Glacial Spike] to freeze dangerous packs (like dolls) in place.\\n\\n**Dealing with Immunes**: Your Mercenary is your primary solution. Use [skill:Telekinesis] to stun lock the Immune monster against a wall while your Mercenary pokes it to death."
+          "content": "The core gameplay loop is \"Cast and Move\". Drop a Blizzard on a pack of monsters, then immediately Teleport or run to a safe position. For bosses like Mephisto, use the \"Moat Trick\" or simply kite him while dropping Blizzards. Use Glacial Spike to freeze dangerous packs (like dolls) in place.\\n\\n**Dealing with Immunes**: Your Mercenary is your primary solution. Use Telekinesis to stun lock the Immune monster against a wall while your Mercenary pokes it to death."
         },
         {
           "title": "Gear Priorities",
-          "content": "Early ladder, prioritize **Faster Cast Rate (FCR)** and **Rank 5 (63% FCR)** or **Rank 8 (105% FCR)**. [runeword:Spirit] Sword and Shield are best-in-slot early options. For chest, [runeword:Stealth] carries you to Hell, eventually replaced by [runeword:Smoke] or [item:Skin of the Vipermagi]."
+          "content": "Early ladder, prioritize **Faster Cast Rate (FCR)** and **Rank 5 (63% FCR)** or **Rank 8 (105% FCR)**. Spirit Sword and Shield are best-in-slot early options. For chest, Stealth carries you to Hell, eventually replaced by Smoke or Skin of the Vipermagi."
         }
       ],
       "image": null,
@@ -20625,7 +20625,7 @@
       "id": "mosaic-assassin",
       "title": "Mosaic Assassin Guide",
       "category": "build",
-      "description": "With two [runeword:Mosaic] claws, your Martial Arts charges are not consumed. This allows you to stack Phoenix Strike, Claws of Thunder, and Blades of Ice for screen-wide devastation.",
+      "description": "With two Mosaic claws, your Martial Arts charges are not consumed. This allows you to stack Phoenix Strike, Claws of Thunder, and Blades of Ice for screen-wide devastation.",
       "icon": null,
       "author": "MacroBioBoi",
       "updated": "2.7",
@@ -20634,11 +20634,11 @@
       "content": [
         {
           "title": "Core Mechanics",
-          "content": "The entire build revolves around the **Mosaic** runeword (`Mal + Gul + Amn`) in a Claw. You need **TWO** of them. This gives you a 100% chance to not consume charges. Build up 3 charges of [skill:Phoenix Strike], [skill:Claws of Thunder], and [skill:Blades of Ice], then unleash them with every kick of [skill:Dragon Talon]."
+          "content": "The entire build revolves around the **Mosaic** runeword (`Mal + Gul + Amn`) in a Claw. You need **TWO** of them. This gives you a 100% chance to not consume charges. Build up 3 charges of Phoenix Strike, Claws of Thunder, and Blades of Ice, then unleash them with every kick of Dragon Talon."
         },
         {
           "title": "Gear",
-          "content": "**Weapons**: 2x [runeword:Mosaic] in Greater Talons (+3 Phoenix Strike base is ideal).\\n**Helm**: [item:Griffon's Eye] or [item:Harlequin Crest].\\n**Armor**: [runeword:Enigma] for positioning (essential).\\n**Gloves**: +2 Martial Arts / 20 IAS Rares.\\n**Boots**: [item:Gore Rider] or [item:Shadow Dancer]."
+          "content": "**Weapons**: 2x Mosaic in Greater Talons (+3 Phoenix Strike base is ideal).\\n**Helm**: Griffon's Eye or Harlequin Crest.\\n**Armor**: Enigma for positioning (essential).\\n**Gloves**: +2 Martial Arts / 20 IAS Rares.\\n**Boots**: Gore Rider or Shadow Dancer."
         }
       ],
       "image": null,
@@ -20657,7 +20657,7 @@
       "id": "javazon",
       "title": "Lightning Fury Javazon Guide",
       "category": "build",
-      "description": "The Javazon is the undisputed queen of density clearing. [skill:Lightning Fury] splits on impact, creating a web of lightning that scales exponentially with monster density.",
+      "description": "The Javazon is the undisputed queen of density clearing. Lightning Fury splits on impact, creating a web of lightning that scales exponentially with monster density.",
       "icon": null,
       "author": "Teo",
       "updated": "2.7",
@@ -20666,11 +20666,11 @@
       "content": [
         {
           "title": "Skill Build",
-          "content": "1. **[skill:Lightning Fury]**: Max this. Your main clear skill.\\n2. **[skill:Charged Strike]**: Max this. Your boss killer.\\n3. **[skill:Lightning Bolt]**: Synergy.\\n4. **[skill:Power Strike]**: Synergy.\\n5. **[skill:Pierce]**: Get enough points for 100% Pierce with [item:Razortail]."
+          "content": "1. **Lightning Fury**: Max this. Your main clear skill.\\n2. **Charged Strike**: Max this. Your boss killer.\\n3. **Lightning Bolt**: Synergy.\\n4. **Power Strike**: Synergy.\\n5. **Pierce**: Get enough points for 100% Pierce with Razortail."
         },
         {
           "title": "Gear Priorities",
-          "content": "**Weapon**: [item:Titan's Revenge] (Ethereal is style points). Upgrade for physical damage.\\n**Shield**: [runeword:Spirit] Monarch or [item:Stormshield] for Hardcore.\\n**Helm**: [item:Griffon's Eye] is Best in Slot (-Enemy Light Res).\\n**Belt**: [item:Razortail] is MANDATORY for 100% Pierce."
+          "content": "**Weapon**: Titan's Revenge (Ethereal is style points). Upgrade for physical damage.\\n**Shield**: Spirit Monarch or Stormshield for Hardcore.\\n**Helm**: Griffon's Eye is Best in Slot (-Enemy Light Res).\\n**Belt**: Razortail is MANDATORY for 100% Pierce."
         }
       ],
       "image": null,
@@ -20689,7 +20689,7 @@
       "id": "hammerdin",
       "title": "Hammerdin Guide",
       "category": "build",
-      "description": "[skill:Blessed Hammer] deals Magic damage, which very few monsters are immune to. Combined with [skill:Concentration] aura, it hits like a truck.",
+      "description": "Blessed Hammer deals Magic damage, which very few monsters are immune to. Combined with Concentration aura, it hits like a truck.",
       "icon": null,
       "author": "LlamaSC",
       "updated": "2.7",
@@ -20698,11 +20698,11 @@
       "content": [
         {
           "title": "Gameplay",
-          "content": "Cast [skill:Holy Shield]. Teleport with [runeword:Enigma] directly ON TOP of your enemy (or slightly below them). Spam [skill:Blessed Hammer]. Everything dies. Use [skill:Redemption] aura to recover Mana/Life between packs."
+          "content": "Cast Holy Shield. Teleport with Enigma directly ON TOP of your enemy (or slightly below them). Spam Blessed Hammer. Everything dies. Use Redemption aura to recover Mana/Life between packs."
         },
         {
           "title": "The Maggot Lair Problem",
-          "content": "Hammers spiral out from your character. In tight corridors like Maggot Lair, they hit walls immediately. Use [skill:Teleport] to skip these areas, or rely on your Mercenary."
+          "content": "Hammers spiral out from your character. In tight corridors like Maggot Lair, they hit walls immediately. Use Teleport to skip these areas, or rely on your Mercenary."
         }
       ],
       "image": null,
@@ -20721,7 +20721,7 @@
       "id": "smiter-paladin",
       "title": "Uber Smiter Guide",
       "category": "build",
-      "description": "[skill:Smite] ignores target defense and block, guaranteeing a hit every time. Combined with Crushing Blow and Life Tap, the Smiter is invincible against Ubers.",
+      "description": "Smite ignores target defense and block, guaranteeing a hit every time. Combined with Crushing Blow and Life Tap, the Smiter is invincible against Ubers.",
       "icon": null,
       "author": "Grand Crusader",
       "updated": "2.7",
@@ -20730,11 +20730,11 @@
       "content": [
         {
           "title": "The Smite Mechanic",
-          "content": "Smite hits with your shield. It ignores Defense and Block chance (always hits). The damage comes from the shield base and +Damage on gear (like [runeword:Grief]). It does NOT work with Life Leech, so you MUST use [skill:Life Tap] to survive."
+          "content": "Smite hits with your shield. It ignores Defense and Block chance (always hits). The damage comes from the shield base and +Damage on gear (like Grief). It does NOT work with Life Leech, so you MUST use Life Tap to survive."
         },
         {
           "title": "Mandatory Gear",
-          "content": "1. **Source of Life Tap**: [item:Dracul's Grasp] gloves or a Wand with Life Tap charges.\\n2. **Crushing Blow**: [item:Guillaume's Face] (Helm) and [item:Gore Rider] (Boots).\\n3. **Resistances**: Stack Lightning Resist (300%+) to counter Mephisto's Conviction Aura."
+          "content": "1. **Source of Life Tap**: Dracul's Grasp gloves or a Wand with Life Tap charges.\\n2. **Crushing Blow**: Guillaume's Face (Helm) and Gore Rider (Boots).\\n3. **Resistances**: Stack Lightning Resist (300%+) to counter Mephisto's Conviction Aura."
         }
       ],
       "image": null,
@@ -20761,11 +20761,11 @@
       "content": [
         {
           "title": "Playstyle",
-          "content": "Summon your Army using [skill:Raise Skeleton]. Teleport onto an enemy with [runeword:Enigma] (game changer). Once the first monster dies, cast [skill:Amplify Damage] and chain [skill:Corpse Explosion] to wipe the screen."
+          "content": "Summon your Army using Raise Skeleton. Teleport onto an enemy with Enigma (game changer). Once the first monster dies, cast Amplify Damage and chain Corpse Explosion to wipe the screen."
         },
         {
           "title": "Bossing",
-          "content": "The key to bosses is [skill:Decrepify] + [skill:Clay Golem]. This slows the boss to a crawl, making them harmless."
+          "content": "The key to bosses is Decrepify + Clay Golem. This slows the boss to a crawl, making them harmless."
         }
       ],
       "image": null,
@@ -20783,7 +20783,7 @@
       "id": "trapsin",
       "title": "Lightning Trapsin Guide",
       "category": "build",
-      "description": "Set traps and watch the world burn. [skill:Lightning Sentry] does the heavy lifting, while [skill:Death Sentry] explodes corpses for massive AoE.",
+      "description": "Set traps and watch the world burn. Lightning Sentry does the heavy lifting, while Death Sentry explodes corpses for massive AoE.",
       "icon": null,
       "author": "Viz-Jaq'taar",
       "updated": "2.7",
@@ -20796,7 +20796,7 @@
         },
         {
           "title": "Build Strategy",
-          "content": "Lay 4 [skill:Lightning Sentry] and 1 [skill:Death Sentry]. Use [skill:Burst of Speed] for mobility or [skill:Fade] for safety. Break immunities with a Sunder Charm or [runeword:Infinity] on your mercenary."
+          "content": "Lay 4 Lightning Sentry and 1 Death Sentry. Use Burst of Speed for mobility or Fade for safety. Break immunities with a Sunder Charm or Infinity on your mercenary."
         }
       ],
       "image": null,
@@ -20814,7 +20814,7 @@
       "id": "wind-druid",
       "title": "Wind Druid Guide",
       "category": "build",
-      "description": "A physical damage caster. [skill:Tornado] deals Physical damage, while [skill:Hurricane] deals Cold. Protected by [skill:Cyclone Armor] and a Bear.",
+      "description": "A physical damage caster. Tornado deals Physical damage, while Hurricane deals Cold. Protected by Cyclone Armor and a Bear.",
       "icon": null,
       "author": "Force of Nature",
       "updated": "2.7",
@@ -20823,7 +20823,7 @@
       "content": [
         {
           "title": "Why Wind?",
-          "content": "Unlike Fire Druids, the Wind Druid deals Physical damage with Tornado, which has very few immunes in Hell. [skill:Cyclone Armor] absorbs hundreds of elemental damage, making him incredibly safe."
+          "content": "Unlike Fire Druids, the Wind Druid deals Physical damage with Tornado, which has very few immunes in Hell. Cyclone Armor absorbs hundreds of elemental damage, making him incredibly safe."
         },
         {
           "title": "Aiming Tornadoes",
@@ -20858,11 +20858,11 @@
         },
         {
           "title": "Diminishing Returns",
-          "content": "As you stack more MF, the benefit per point decreases. The sweet spot for most builds is around 250-350% MF. Beyond this, you often sacrifice too much clear speed. For example, wearing a [item:Harlequin Crest] (Shako) and [runeword:Enigma] gets you very close to this optimal range effortlessly."
+          "content": "As you stack more MF, the benefit per point decreases. The sweet spot for most builds is around 250-350% MF. Beyond this, you often sacrifice too much clear speed. For example, wearing a Harlequin Crest (Shako) and Enigma gets you very close to this optimal range effortlessly."
         },
         {
           "title": "Best Areas to Farm",
-          "content": "For a [build:blizz-sorc], the Ancient Tunnels in Act 2 are ideal because there are no native Cold Immunes. For a [build:hammerdin], the Chaos Sanctuary is the best spot due to high monster density and good drops from Diablo."
+          "content": "For a blizz-sorc, the Ancient Tunnels in Act 2 are ideal because there are no native Cold Immunes. For a hammerdin, the Chaos Sanctuary is the best spot due to high monster density and good drops from Diablo."
         }
       ],
       "image": null,
@@ -20889,11 +20889,11 @@
       "content": [
         {
           "title": "Early Game (1-24)",
-          "content": "Start with Charged Bolt until level 6, then switch to [skill:Static Field] and [skill:Nova] or [skill:Fire Ball]. Fire Ball is generally superior for leveling due to splash damage. [runeword:Leaf] runeword in a 2-socket staff is essential."
+          "content": "Start with Charged Bolt until level 6, then switch to Static Field and Nova or Fire Ball. Fire Ball is generally superior for leveling due to splash damage. Leaf runeword in a 2-socket staff is essential."
         },
         {
           "title": "Mid Game (24-40)",
-          "content": "At level 24, you can respec into [skill:Blizzard] if you have the mana management, or stick with Fire. Farm Normal Baal until level 40."
+          "content": "At level 24, you can respec into Blizzard if you have the mana management, or stick with Fire. Farm Normal Baal until level 40."
         }
       ],
       "image": null,
