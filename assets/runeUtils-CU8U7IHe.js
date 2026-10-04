@@ -1,1 +1,0 @@
-function s(t){if(!t)return"";let e=t.replace(/\s*[Rr]une\s*/g,"").replace(/-/g,"").trim();return e?`/assets/items/runes/rune${e.charAt(0).toUpperCase()+e.slice(1).toLowerCase()}.gif`:""}export{s as g};
