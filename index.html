@@ -7,9 +7,22 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>D2R Nexus | Diablo 2 Resurrected Companion</title>
   <script type="text/javascript">
-    // Single Page Apps for GitHub Pages
-    // https://github.com/rafgraph/spa-github-pages
+    // Single Page Apps for GitHub Pages & Direct URL Linking
+    // Supports both standard spa-github-pages format (/?/path), p-query parameter format (/?p=/path),
+    // and handles direct links to /runes without /d2rr/ prefix when deployed or tested.
     (function(l) {
+      // 1. If user navigated to a direct root path (e.g. https://.../runes instead of /d2rr/runes on GH Pages)
+      var expectedBase = '/d2rr/';
+      var isGhPages = l.hostname.indexOf('github.io') !== -1;
+      
+      if (isGhPages && !l.pathname.startsWith(expectedBase)) {
+        var cleanPath = l.pathname.startsWith('/') ? l.pathname.slice(1) : l.pathname;
+        var target = l.protocol + '//' + l.hostname + (l.port ? ':' + l.port : '') + expectedBase + cleanPath + l.search + l.hash;
+        l.replace(target);
+        return;
+      }
+
+      // 2. Decode SPA query routing from 404.html
       if (l.search[1] === '/' ) {
         var decoded = l.search.slice(1).split('&').map(function(s) { 
           return s.replace(/~and~/g, '&')
@@ -17,16 +30,26 @@
         window.history.replaceState(null, null,
             l.pathname.slice(0, -1) + decoded + l.hash
         );
+      } else if (l.search.indexOf('p=/') !== -1 || l.search.indexOf('?p=/') !== -1) {
+        var params = new URLSearchParams(l.search);
+        var routePath = params.get('p') || '';
+        if (routePath) {
+          params.delete('p');
+          var restSearch = params.toString() ? ('?' + params.toString()) : '';
+          var basePath = l.pathname.endsWith('/') ? l.pathname.slice(0, -1) : l.pathname;
+          var newUrl = basePath + (routePath.startsWith('/') ? routePath : ('/' + routePath)) + restSearch + l.hash;
+          window.history.replaceState(null, null, newUrl);
+        }
       }
     }(window.location))
   </script>
-  <script type="module" crossorigin src="/d2rr/assets/index-CTJZ9tLf.js"></script>
+  <script type="module" crossorigin src="/d2rr/assets/index-Cq0wvwdC.js"></script>
   <link rel="modulepreload" crossorigin href="/d2rr/assets/vendor-i18n-DiWUn6ut.js">
   <link rel="modulepreload" crossorigin href="/d2rr/assets/vendor-react-BUV-clOC.js">
-  <link rel="modulepreload" crossorigin href="/d2rr/assets/vendor-ui-cl0by2JD.js">
+  <link rel="modulepreload" crossorigin href="/d2rr/assets/vendor-ui-mPBhbdcv.js">
   <link rel="modulepreload" crossorigin href="/d2rr/assets/vendor-utils-BZBzKOtI.js">
-  <link rel="modulepreload" crossorigin href="/d2rr/assets/vendor-markdown-DKfRi82Y.js">
-  <link rel="stylesheet" crossorigin href="/d2rr/assets/index-CWAHCGz9.css">
+  <link rel="modulepreload" crossorigin href="/d2rr/assets/vendor-markdown-BzGrn3g4.js">
+  <link rel="stylesheet" crossorigin href="/d2rr/assets/index-BMjwk_Ty.css">
 </head>
 
 <body>
